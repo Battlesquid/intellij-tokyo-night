@@ -1,0 +1,210 @@
+{
+  "author": "battlesquid",
+  "dark": true,
+  "editorScheme": "/META-INF/tokyonight.xml",
+  "name": "tokyonight",
+  "ui": {
+    "*": {
+      "acceleratorForeground": "#D0D0D9",
+      "acceleratorSelectionForeground": "#D0D0D9",
+      "background": "#16161E",
+      "borderColor": "#101014",
+      "disabledBackground": "#27293A",
+      "disabledBorderColor": "#45405C",
+      "disabledForeground": "#646078",
+      "disabledText": "#646078",
+      "errorForeground": "#dd3962",
+      "focusColor": "#693687",
+      "focusedBorderColor": "#814F9E",
+      "foreground": "#565f89",
+      "inactiveBackground": "#1a1b26",
+      "inactiveForeground": "#646078",
+      "infoForeground": "#6d6a80",
+      "lightSelectionBackground": "#27293A",
+      "lightSelectionForeground": "#D0D0D9",
+      "lightSelectionInactiveBackground": "#3d3952",
+      "lightSelectionInactiveForeground": "#D0D0D9",
+      "lineSeparatorColor": "#3000ff",
+      "modifiedItemForeground": "#b279f2",
+      "selectionBackground": "#27293A",
+      "selectionBackgroundInactive": "#FF00FF",
+      "selectionForeground": "#D0D0D9",
+      "selectionInactiveBackground": "#1C1D29",
+      "separatorColor": "#24283b",
+      "separatorForeground": "#0073ff"
+    },
+    "SearchEverywhere": {
+      "Tab": {
+        "selectedBackground": "#24283b",
+        "selectedForeground": "#a9b1d6"
+      }
+    },
+    "Editor": {
+      "background": "#1a1b26",
+      "foreground": "#a9b1d6"
+    },
+    "EditorTabs": {
+      "hoverBackground": "#1a1b26",
+      "background": "#1313ae",
+      "underlineColor": "#60e6a6",
+      "underlinedTabBackground": "#363647",
+      "inactiveColoredFileBackground": "#fb0000"
+    },
+    "Button.arc": 0,
+    "Button": {
+      "startBackground": "#1a1b26",
+      "endBackground": "#1a1b26",
+      "startBorderColor": "#414868",
+      "endBorderColor": "#414868",
+      "shadowColor": "#1a1b26",
+      "default": {
+        "startBackground": "#1a1b26",
+        "endBackground": "#1a1b26",
+        "startBorderColor": "#414868",
+        "endBorderColor": "#414868",
+        "shadowColor": "#1a1b26",
+        "focusedBorderColor": "#8465a6",
+        "focusColor": "#FF0000"
+      }
+    },
+    "ActionButton": {
+      "hoverBackground": "#4600fd",
+      "hoverBorderColor": "#4800ff",
+      "pressedBackground": "#49415c",
+      "pressedBorderColor": "#49415C"
+    },
+    "Borders": {
+      "color": "#101014",
+      "ContrastBorderColor": "#101014"
+    },
+    "ComboBox": {
+      "nonEditableBackground": "#16161E",
+      "background": "#16161E",
+      "ArrowButton": {
+        "iconColor": "#414868",
+        "disabledIconColor": "#24283b",
+        "nonEditableBackground": "#24283b"
+      },
+      "selectionBackground": "#24283b"
+    },
+    "MemoryIndicator": {
+      "allocatedBackground": "#24283b",
+      "usedBackground": "#414868"
+    },
+    "Component.borderColor": "#24283b",
+    "Tree": {
+      "rowHeight": 30,
+      "hash": "#2B2B3B",
+      "hoverBackground": "#00000033",
+      "hoverInactiveBackground": "#00000033"
+    },
+    "TabbedPane": {
+      "underlineColor": "#9649cc",
+      "disabledUnderlineColor": "#f7768e",
+      "hoverColor": "#24283b",
+      "contentAreaColor": "#1a1721",
+      "focusColor": "#24283b",
+      "background": "#1a1b26"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "#16161E",
+        "inactiveBackground": "#1a1b26",
+        "borderColor": "#101014"
+      },
+      "HeaderTab": {
+        "selectedInactiveBackground": "#FF0000",
+        "hoverBackground": "#1a1b26",
+        "hoverInactiveBackground": "#24283b"
+      },
+      "MenuBar.borderColor": "#101014",
+      "Button": {
+        "hoverBackground": "#1a1b26",
+        "selectedBackground": "#1a1b26",
+        "selectedForeground": "#a9b1d6"
+      },
+      "NavBar.borderColor": "#4900ff",
+      "StatusBar.borderColor": "#4c00ff"
+    },
+    "ToolTip": {
+      "background": "#24283b",
+      "Actions": {
+        "infoForeground": "#a9b1d6",
+        "background": "#24283b"
+      },
+      "infoForeground": "#565f89",
+      "shortcutForeground": "#565f89",
+      "borderColor": "#1a1b26"
+    },
+    "PopupMenu": {
+      "borderWidth": 1,
+      "borderInsets": "4,1,4,1",
+      "selectionForeground": "#78e125"
+    },
+    "PopupMenu.background": "#101014",
+    "PopupMenu.selectionBackground": "#00a6ff",
+    "CompletionPopup": {
+      "foreground": "#414868",
+      "matchForeground": "#565f89"
+    },
+    "Popup": {
+      "borderColor": "#24283b",
+      "inactiveBorderColor": "#414868",
+      "Toolbar.borderColor": "#714dd3",
+      "separatorForeground": "#a9b1d6",
+      "Header": {
+        "activeBackground": "#5200ff",
+        "inactiveBackground": "#5300ff"
+      },
+      "Advertiser": {
+        "foreground": "#a9b1d6",
+        "borderColor": "#24283b",
+        "borderInsets": "4,8,3,0",
+        "background": "#1a1b26"
+      }
+    },
+    "Menu.separatorColor": "#FF0000",
+    "MenuItem.disabledForeground": "#24283b",
+    "MenuItem.background": "#FF0000",
+    "ActionButton.hoverBackground": "#48ff00",
+    "CheckBoxMenuItem.background": "#FF0000",
+    "CheckBoxMenuItem.selectionForeground": "#FF0000",
+    "Link": {
+      "activeForeground": "#7aa2f7",
+      "hoverForeground": "#95b5f6"
+    },
+    "ToggleButton": {
+      "background": "#414868",
+      "offBackground": "#FF0000",
+      "buttonColor": "#FF0000"
+    },
+    "Window.border" : "1,1,1,1,FF0000",
+    "FileColor": {
+      "Yellow": "#e0af68",
+      "Green": "#9ece6a",
+      "Blue": "#7aa2f7",
+      "Violet": "#bb9af7",
+      "Orange": "#ff9e64",
+      "Rose": "#f7768e",
+      "Gray": "#414868"
+    },
+    "ParameterInfo": {
+      "background": "#281A33",
+      "foreground": "#CCCCCC",
+      "currentOverloadBackground": "#450073",
+      "currentParameterForeground": "#FFFFFF"
+    },
+    "VersionControl": {
+      "Log.Commit": {
+        "currentBranchBackground": "#1a1b26",
+        "unmatchedForeground": "#2ac3de",
+        "hoveredBackground": "#24283b"
+      },
+      "RefLabel": {
+        "backgroundBase": "#24283b",
+        "backgroundBrightness": 0.7
+      },
+      "FileHistory.Commit.selectedBranchBackground": "#0000ff"
+    }
+  }
+}
